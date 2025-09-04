@@ -16,12 +16,14 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/MananSharma12/eth-backend/issues"
   },
   "homepage": "https://github.com/MananSharma12/eth-backend#readme",
   "dependencies": {
+    "dotenv": "^17.2.2",
+    "ethers": "^6.15.0",
     "typescript": "^5.9.2"
   },
   "devDependencies": {
